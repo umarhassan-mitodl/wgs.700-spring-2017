@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains a list of citations of readings used for this
   project. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Project 2
@@ -21,7 +23,7 @@ uid: 233ff384-caf7-b1af-6425-f3098e1bc73e
 
  Glantz, Michael H. _Societal Responses to Regional Climatic Change: Forecasting By Analogy._ Westview Press, 1988. ISBN:9780813376394.
 
-Last, Angela. {{% resource_link "750d8208-fee4-4469-9993-2393a19c639b" "Super-Natural Futures: One Possible Dialogue Between Afrofuturism and the Anthropocene" %}}." _Mutable Matter: Interdiscplinary Writing on Materiality_. August 13, 2013. 
+Last, Angela. [Super-Natural Futures: One Possible Dialogue Between Afrofuturism and the Anthropocene](https://mutablematter.wordpress.com/2013/08/13/super-natural-futures-one-possible-dialogue-between-afrofuturism-and-the-anthropocene/)." _Mutable Matter: Interdiscplinary Writing on Materiality_. August 13, 2013. 
 
  Monbiot, George. _Heat: How to Stop the Planet from Burning._ South End Press, 2007. ISBN:9780896087798.
 
@@ -29,8 +31,8 @@ Last, Angela. {{% resource_link "750d8208-fee4-4469-9993-2393a19c639b" "Super-N
 
  Taylor, Peter J. "How Do We Know We Have Global Environmental Problems? Undifferentiated Science-Politics and Its Potential Reconstruction." In _Changing Life: Genomes, Ecologies, Bodies, Commodities_. Edited by Peter J. Taylor, Saul E. Halfon, and Paul N. Edwards. University of Minnesota Press, 1997. ISBN:9780816630134.
 
-— — —. "{{% resource_link "fde07d2e-e7d6-4456-a0b0-9ec3fdc6212b" "Diagramming Intersecting Processes (A 30-Minute Guest Activity for a Class on Graphic Organizers)" %}}." _Intersecting Processes_. 2010.
+— — —. "[Diagramming Intersecting Processes (A 30-Minute Guest Activity for a Class on Graphic Organizers)](https://pjt111.wordpress.com/2014/04/22/diagramming-intersecting-processes-a-30-minute-guest-activity-for-a-class-on-graphic-organizers/)." _Intersecting Processes_. 2010.
 
  Womack, Ytasha L. "Project Imagination." In _Afrofuturism: The World of Black Sci-Fi and Fantasy Culture_. Chicago Review Press, 2013. ISBN:978161374796.
 
-misterclochard. "{{% resource_link "54f4c4c8-0cbc-4674-a550-7f5edcb839a4" "Sun Ra/Space is the Place" %}}." May 21, 2011. YouTube.
+misterclochard. "[Sun Ra/Space is the Place](https://www.youtube.com/watch?v=dokLwszdUgY)." May 21, 2011. YouTube.

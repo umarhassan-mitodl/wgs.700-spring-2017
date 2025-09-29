@@ -20,7 +20,7 @@ Classes will generally begin with a warm-up and check-in, e.g., sharing of highl
 
 ## Focal Weekly Reading
 
-The diversity of students’ inquiries on the four projects and thus range of reading is unavoidable and important. However, as a response to the need expressed by past students for some shared referents, one focal reading will be assigned each week to be discussed in various modes (to be specified), such as annotations posted online ahead of class, time-limited spoken reports on the nine categories of note-taking, guided close reading, and {{% resource_link "fecf1d2d-7b05-4fd1-8e47-a0314c035dec" "five-phase dialogue" %}}.
+The diversity of students’ inquiries on the four projects and thus range of reading is unavoidable and important. However, as a response to the need expressed by past students for some shared referents, one focal reading will be assigned each week to be discussed in various modes (to be specified), such as annotations posted online ahead of class, time-limited spoken reports on the nine categories of note-taking, guided close reading, and [five-phase dialogue](http://www.faculty.umb.edu/pjt/FivePhaseFormat.html).
 
 ## Workshop
 
@@ -34,7 +34,7 @@ Visual aids should be prepared without diverting your time away from your ongoin
 
 Peter: "These days I use pdf's, not Powerpoint, for all my talks, in part because of bad experiences with some images not showing up when ppt files got shown on a different operating system. But mostly because I can write and revise outlines in Microsoft Word and then, when I'm ready, I change the font size, "print" as a pdf, and I'm ready to go live. Preparation time for my talks is not diverted into making animations, backgrounds, fade-ins and other non-essential features of a talk. Even if you don't take this tip, try to make one introductory slide that captures the overall structure and logic of your inquiry. This might be enough of a visual aid that you can talk to that slide and not have to prepare many others."
 
-Mary: Agreed. I would also point to Edward Tufte’s work, especially The Visual Display of Quantitative Information (and his cheap but excellent and hilarious pamphlet “{{% resource_link "9866cb46-009e-44ad-8f71-d7c27a64fe71" "The Cognitive Style of Powerpoint" %}}.”)
+Mary: Agreed. I would also point to Edward Tufte’s work, especially The Visual Display of Quantitative Information (and his cheap but excellent and hilarious pamphlet “[The Cognitive Style of Powerpoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf).”)
 
 ## Annotations
 

@@ -4,6 +4,8 @@ description: ''
 file: /courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/82239cb3c78388a293e78260e5d40c51_primate.jpg
 file_size: 38751
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: A mother gorilla and her baby.
   credit: 'Image by The Climate Coalition(UK)on Flickr. Cc: BY-NC-SA.'

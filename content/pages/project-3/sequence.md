@@ -27,7 +27,7 @@ Compare and contrast your situational map and the others.
 
 *Focal Reading*
 
-Jesser, Nancy. "{{% resource_link "a5e8957a-8ef7-48b1-a564-045094f65208" "Blood, Genes and Gender in Octavia Butler's *Kindred* and *Dawn*" %}}." *Extrapolation* 43, no. 1 (2002).
+Jesser, Nancy. "[Blood, Genes and Gender in Octavia Butler's *Kindred* and *Dawn*](https://go.gale.com/ps/i.do?id=GALE%7CA87128335&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00145483&p=AONE&sw=w&userGroupName=mlin_oweb&isGeoAuthType=true&aty=geo)." *Extrapolation* 43, no. 1 (2002).
 
 *Prompt for Journal Entry (between class 9 and 10)*
 
@@ -39,11 +39,11 @@ Presentation of a class for this imagined course, a semester-long course project
 
 *Focal Reading*
 
-Taylor, Peter J. "{{% resource_link "3974525e-2a64-4475-90aa-a9e494856de0" "Infrastructure and Scaffolding: Interpretation and Change of Research Involving Human Genetic Information" %}}." *Science as Culture* 18, no. 4 (2009): 435–459. 
+Taylor, Peter J. "[Infrastructure and Scaffolding: Interpretation and Change of Research Involving Human Genetic Information](http://www.tandfonline.com/doi/abs/10.1080/09505430902946649)." *Science as Culture* 18, no. 4 (2009): 435–459. 
 
 If you have read that already, watch  a video of the practice run of a talk to philosophers and biologists:
 
-Taylor@ISHPSSB15. "{{% resource_link "bccc0259-a278-4238-a29a-7d2b3b20cfde" "His nature, her nurture—or what good are conceptual critiques for tackling practical concerns about the development of gendered individuals?" %}}" YouTube. June 11, 2015. 
+Taylor@ISHPSSB15. "[His nature, her nurture—or what good are conceptual critiques for tackling practical concerns about the development of gendered individuals?](https://www.youtube.com/watch?v=gE75Cf_8K34&feature=youtu.be)" YouTube. June 11, 2015. 
 
 *Prompt for Journal Entry (between class 10 and 11)*
 

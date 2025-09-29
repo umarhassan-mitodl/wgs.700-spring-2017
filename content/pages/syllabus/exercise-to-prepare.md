@@ -21,7 +21,7 @@ You should do steps 1 & 2 before Class 2. You are welcome to start the video and
 
 *Exercise*
 
-1. Re-read scenario for {{% resource_link "18a24a2c-47d3-bd88-acfb-f992c59b8871" "Project 1" %}}. Read and post an annotation of Haraway, Donna J."{{% resource_link "1ee112bc-d5ff-442d-b8c8-37e794074247" "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936" %}}." *Social Text* 11 (Winter 1984–1985): 20–64. View the {{% resource_link "4798c1b9-0884-4ef3-bd89-87d6ba4690b5" "Paper Tiger video" %}}, stopping every few minutes to make notes (4 parts; 1, 2, 3, 4).   
+1. Re-read scenario for {{% resource_link "18a24a2c-47d3-bd88-acfb-f992c59b8871" "Project 1" %}}. Read and post an annotation of Haraway, Donna J."[Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936](https://www.jstor.org/stable/466593?seq=1#page_scan_tab_contents)." *Social Text* 11 (Winter 1984–1985): 20–64. View the [Paper Tiger video](https://www.cctv.org/watch-tv/programs/donna-haraway-reads-national-geographic-primates-ted-koppels-long-march-viewed-dan), stopping every few minutes to make notes (4 parts; 1, 2, 3, 4).   
       
     Note questions that interest you opened up by connections that Haraway draws. Prepare, then later post as comments/replies on the blog, at least 5 Knowldege claims of Haraway's in the video or "Teddy Bear Patriarchy" chapter, related to the issue of establishment of knowledge in a certain place at a certain time for a certain people.   
       
@@ -44,11 +44,11 @@ You should do steps 1 & 2 before Class 2. You are welcome to start the video and
     - What kinds of knowledge claims are made on these websites?
     - What kinds of events and institutions are linked on these websites?
     - Who and what are the actors that emerge from these pages and what kinds of actions do they take?
-    - {{% resource_link "36ee1a87-4011-4262-b8c8-0783a16264eb" "The Personal Genome Project" %}}
-    - {{% resource_link "d5798177-b084-421d-a63c-73556b94adae" "deCode genetics" %}}
-    - {{% resource_link "f1f0b910-b5d0-498e-988f-031ba08f7fa1" "Epigenomics" %}}
-    - {{% resource_link "5831cbc3-91e2-48f7-8e8a-48233ad0c91c" "DNA Diagnostics Center" %}}
-    - {{% resource_link "20b85890-c388-4809-a03d-13602d82e725" "Biopunk" %}}
+    - [The Personal Genome Project](http://www.personalgenomes.org/us)
+    - [deCode genetics](https://www.decode.com/)
+    - [Epigenomics](https://commonfund.nih.gov/epigenomics/)
+    - [DNA Diagnostics Center](https://dnacenter.com/)
+    - [Biopunk](https://en.wikipedia.org/wiki/Biopunk)
 4. Rapid PBL   
       
     A 'briefing' to help you and other (prospective) teachers learn and get support to move in the direction of more feminist and/or anti-racist pedagogy, especially around science.   
