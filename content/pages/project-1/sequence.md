@@ -3,8 +3,6 @@ content_type: page
 description: 'This section contains a list of readings and assignments for Project
   1. '
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Project 1
@@ -19,7 +17,7 @@ Generating questions for inquiry (KAQ framework \[Knowledge-Action-Questions; Ta
 
 *Focal Reading*
 
-Haraway, Donna. "[Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936](https://www.jstor.org/stable/466593?seq=1#page_scan_tab_contents)." *Social Text* 11 (Winter 1984–1985): 20–64. 
+Haraway, Donna. "{{% resource_link "b3004fc6-551f-49a7-9bdf-790b3d99aa8e" "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936" %}}." *Social Text* 11 (Winter 1984–1985): 20–64. 
 
 *Prompt for Journal Entry (between class 2 and 3)*
 
@@ -31,7 +29,7 @@ Five-phase dialogue process (aka Dialogue Hour) to share and clarify what we are
 
 *Focal Reading*
 
-Duchamp, L. Timmel. "[The Forbidden Words of Margaret A](http://ltimmelduchamp.com/stories/margaret.pdf)." 
+Duchamp, L. Timmel. "{{% resource_link "1b413227-784f-47e3-aacd-cc5b1bb1339b" "The Forbidden Words of Margaret A" %}}." 
 
 *Prompt for Journal Entry (between class 3 and 4)*
 
@@ -43,7 +41,7 @@ Presentations and submission of written product = mock-up of a museum display an
 
 *Focal Reading*
 
- Delaney, Samuel R. "[Reading at Work, and Other Activities Frowned on By Authority: A Reading on Donna Haraway's 'Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980's.'](https://muse.jhu.edu/chapter/36525)" *Longer Views: Extended Essay*. Wesleyan, 1996. ISBN: 9780819562937.
+ Delaney, Samuel R. "{{% resource_link "3ad390b3-0810-455e-92b9-74b010428c2a" "Reading at Work, and Other Activities Frowned on By Authority: A Reading on Donna Haraway's 'Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980's.'" %}}" *Longer Views: Extended Essay*. Wesleyan, 1996. ISBN: 9780819562937.
 
 Prompt for Journal Entry (between class 4 and 5)
 

@@ -17,7 +17,7 @@ Intersecting processes mapping of fictional text (activity based on Taylor 2010)
 
 *Focal Reading*
 
-Taylor, Peter J., and Frederick H. Buttel. "[How Do We Know We Have Global Environmental Problems? Science and the Globalization of Environmental Discourse](http://www.sciencedirect.com/science/article/pii/0016718592900515)." *Geoforum* 23, no 3 (1992): 405–416. 
+Taylor, Peter J., and Frederick H. Buttel. "{{% resource_link "379a5d02-0dd4-449d-bdfc-fdb2914b1fdc" "How Do We Know We Have Global Environmental Problems? Science and the Globalization of Environmental Discourse" %}}." *Geoforum* 23, no 3 (1992): 405–416. 
 
 *Prompt for Journal Entry (between Class 5 and 6)*
 
@@ -29,7 +29,7 @@ Work-in-progress presentations in small groups and extended discussion
 
 *Focal Reading*
 
-Last, Angela. "[Super-Natural Futures: One Possible Dialogue Between Afrofuturism and Anthropocene](https://mutablematter.wordpress.com/2013/08/13/super-natural-futures-one-possible-dialogue-between-afrofuturism-and-the-anthropocene/)." *Mutable Matter: Interdisciplinary Writing on Materiality*. August 13, 2013. 
+Last, Angela. "{{% resource_link "d60c826f-572c-440e-b1cc-cdeb600c2a8a" "Super-Natural Futures: One Possible Dialogue Between Afrofuturism and Anthropocene" %}}." *Mutable Matter: Interdisciplinary Writing on Materiality*. August 13, 2013. 
 
 *Prompt for Journal Entry*
 

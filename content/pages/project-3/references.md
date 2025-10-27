@@ -24,7 +24,7 @@ Clarke, Adele E. "Doing Situational Maps and Analysis." *Situational Analysis: 
 
 Goto, H. "Tales from the Beast." *Absinthe*, 1995. 
 
-Idema, Tom. "[Toward a Minor Science Fiction: Literature, Science, and the Shock of the Biophysical](https://muse.jhu.edu/article/576939)." *Configurations* 23, no. 1 (Winter 2015):35–39. *Project MUSE*. 
+Idema, Tom. "{{% resource_link "776019c3-979d-4b93-a474-082704681380" "Toward a Minor Science Fiction: Literature, Science, and the Shock of the Biophysical" %}}." *Configurations* 23, no. 1 (Winter 2015):35–39. *Project MUSE*. 
 
 Löwy, I. "FISHing for Identity: Maternal-Foetal Traffic and the Change in the Meaning of Pregnancy." 2009.  \[Unpublished paper on microchimerism\]
 
@@ -34,10 +34,10 @@ Morozov, Evgeny. *The Net Delusion: The Dark Side of Internet Freedom*. PublicAf
 
 Palwick, Susan. "Gestella." In *Starlight 3*. Edited by Patrick Nielsen Hayden. Tor Books, 2001. ISBN: 9780312867805.
 
-Surkan, KJ. Petition "[Free the Data](https://www.change.org/p/mark-c-capone-ceo-of-myriad-genetics-myriad-genetics-give-us-our-damn-brca-data?recruiter=2866415&utm_source=share_for_starters&utm_medium=copyLink)." 2015. 
+Surkan, KJ. Petition "{{% resource_link "90558e46-7442-477a-92d6-8fba67b456a9" "Free the Data" %}}." 2015. 
 
-Taylor, Peter J. "[Infrastructure and Scaffolding: Interpretation and Change of Research Involving Human Genetic Information](http://www.tandfonline.com/doi/abs/10.1080/09505430902946649)." *Science as Culture* 18, no. 4 (2009): 435–459. 
+Taylor, Peter J. "{{% resource_link "aaf371f6-30bd-4801-afdd-387ca24f3c86" "Infrastructure and Scaffolding: Interpretation and Change of Research Involving Human Genetic Information" %}}." *Science as Culture* 18, no. 4 (2009): 435–459. 
 
 Weinberger, David. *Small Pieces Loosely Joined: A Unified Theory of the Web*. Basic Books, 2002. ISBN: 97807382055434.
 
-Williams, Isobel. "[Kancer Sutra](https://muse.jhu.edu/article/555899)." *Configurations* 22, no 2. (2014):229–236. Project MUSE.
+Williams, Isobel. "{{% resource_link "ea711d24-12db-4aee-8d18-55d74d96a3bd" "Kancer Sutra" %}}." *Configurations* 22, no 2. (2014):229–236. Project MUSE.
