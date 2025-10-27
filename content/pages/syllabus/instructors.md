@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: 'This section contains biographies of the two course instructors. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -20,4 +18,4 @@ Mary Baine Campbell
 Peter Taylor
 ------------
 
-{{< resource 9d293603-8329-f7af-0db5-1ff9814885a5 >}}[Peter Taylor](http://www.faculty.umb.edu/pjt/) is a professor and Director of the Science in a Changing World graduate track at the University of Massachusetts Boston. Professor Taylor brings to this course a) the experience of teaching a PBL-format GCWS course on gender, race, and science four times with three quite different co-instructors; b) openness to learning from the literary interpretive expertise of his co-instructor; and c) a desire to bring front and center the challenge for students of developing a narrative or plan for themselves as inquirers who trouble the boundaries of knowledge production in the academy and sciences and cultivate the support needed to continue to do so.
+{{< resource 9d293603-8329-f7af-0db5-1ff9814885a5 >}}{{% resource_link "7b34b9b8-f50e-4049-99cc-d0658afd692c" "Peter Taylor" %}} is a professor and Director of the Science in a Changing World graduate track at the University of Massachusetts Boston. Professor Taylor brings to this course a) the experience of teaching a PBL-format GCWS course on gender, race, and science four times with three quite different co-instructors; b) openness to learning from the literary interpretive expertise of his co-instructor; and c) a desire to bring front and center the challenge for students of developing a narrative or plan for themselves as inquirers who trouble the boundaries of knowledge production in the academy and sciences and cultivate the support needed to continue to do so.

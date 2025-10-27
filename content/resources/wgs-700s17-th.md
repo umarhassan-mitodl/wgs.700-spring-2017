@@ -4,13 +4,11 @@ description: ''
 file: /courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017/5e5369c561129f28e90670c03b404f93_wgs-700s17-th.jpg
 file_size: 17837
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "This image depicts neurons in the brain. Throughout this course, students\
     \ examine the cultural dimensions of the sciences, including climate change and\
-    \ genomics.\_ (Image by [Seung Lab](https://www.flickr.com/photos/123689703@N04/13951001085)\
-    \ on flickr. License CC: BY-NC-SA.)"
+    \ genomics.\_ (Image by {{% resource_link \"d5d8e0d0-3d1f-4227-bb71-911d5a56780f\"\
+    \ \"Seung Lab\" %}} on flickr. License CC: BY-NC-SA.)"
   credit: ''
   image-alt: 'Colorful neurons are tangled around each other. '
 learning_resource_types: []

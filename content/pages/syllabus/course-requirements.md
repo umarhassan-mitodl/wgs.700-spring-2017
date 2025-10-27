@@ -36,7 +36,7 @@ Participation and Contribution to the Class Process (2/5 of grade)
 *   Exercises to prepare for class workshops (4 items)
 *   Peer commentary on other students' draft products (3 times, by the class after presentations)(3 items)
 *   Your assignment checklist filled-in during the semester and submitted with your self-assessment on the rubric below; due at the last class (1 item)
-*   Bonus item: Participate in the April session at the [Cambridge Science Festival](https://www.cambridgesciencefestival.org/)
+*   Bonus item: Participate in the April session at the {{% resource_link "9acb03c3-6a9d-43a2-9c96-ac4dce1b7398" "Cambridge Science Festival" %}}
 
 Grading
 -------
